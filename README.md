@@ -12,5 +12,11 @@
 </ul>
 
 ## Reference Post
-<a href="http://justlaravel.com/middleware-laravel-content-restriction-user-role/">http://justlaravel.com/middleware-laravel-content-restriction-user-role/
+<a href="https://justlaravel.com/middleware-laravel-content-restriction-user-role/">https://justlaravel.com/middleware-laravel-content-restriction-user-role/
 </a>
+
+## Demo and Code Explanation Video
+https://www.youtube.com/watch?v=DkMmy-KRRTE&list=PLJKqSeQP_mlKUcBB8IC1LSWcIUYGldNuE
+
+## Working Demo
+http://demos.justlaravel.com/middleware-laravel-content-restriction-user-role
